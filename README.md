@@ -71,4 +71,4 @@ The ex6 corresponds to the following lectures:
 
 Copyright (c) 2023 GEO4300 Geosciences Department of UiO. All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited.
 
-Visit (course page)[https://www.uio.no/studier/emner/matnat/geofag/GEO4300/index.html] and get permit to use this content.
+Visit [course page](https://www.uio.no/studier/emner/matnat/geofag/GEO4300/index.html) to get permit to use this content.
